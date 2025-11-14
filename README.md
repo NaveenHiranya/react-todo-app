@@ -9,4 +9,4 @@ This is a simple **React-based To-Do List app** with the following features:
 
 Built with React and TypeScript (Vite setup).
 
-![To-Do App Screenshot](public/todolistapp.png)
+<img src="public/todolistapp.png" alt="To-Do App Screenshot" width="400"/>
