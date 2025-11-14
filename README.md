@@ -11,4 +11,4 @@ Built with React and TypeScript (Vite setup).
 
 <img src="public/todolistapp.png" alt="To-Do App Screenshot" width="400"/>
 
-<img src="public/todolistapp2.png" alt="To-Do App Screenshot 2" width="400"/>
+<img src="public/todolist2.png" alt="To-Do App Screenshot 2" width="400"/>
